@@ -1,0 +1,29 @@
+{
+  "stock": [
+    {
+      "id": "1",
+      "title": "Nihira cables",
+      "description": "THis are cables with good quality",
+      "deliverydate": "12th may 2024"
+    },
+    {
+      "id": "2",
+      "title": "Ricky mouse ",
+      "description": "this cables are effienct and longlasting",
+      "deliverydate": "23rd April 2024"
+    },
+    {
+      "id": "3",
+      "title": "Apple Laptops",
+      "description": "This are the best laptops worldwide",
+      "deliverydate": "4th may 2024"
+    },
+    {
+      "id": "af82",
+      "title": "Smart watches ",
+      "description": "this are longlasting and waterproof",
+      "deliverydate": "16th May 2024",
+      "active": true
+    }
+  ]
+}
